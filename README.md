@@ -2,10 +2,11 @@
 
 
 #installation
-1. clone to repository , open to the folder in vs code and open terminal
-2. execute npm i for install node moules
-3.execute to proyect with comand node dist/app.js if you have install nodemon ,nodemon dist/app.js and execute
+- clone to repository , open to the folder in vs code and open terminal
+- execute npm i for install node moules
+- execute to proyect with comand node dist/app.js if you have install nodemon ,nodemon dist/app.js and execute
  tsc --w this for this to compile we code from typescript to the javascript automatic
+- create to file .env with string conexion.
 
 #implementationtsc
 
